@@ -1,5 +1,5 @@
 
-# <iScholar>
+# iScholar
 
 Sholarship website with build with springboot with features such as user login / signup and cotegorizing basis on profiles, application management and desk officer base approve and sent back mechanisum. 
 
